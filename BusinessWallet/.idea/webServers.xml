@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24682a3f-165a-4c9f-a6bc-acf935e6af2d" name="aku">
+        <fileTransfer rootFolder="/home/dean" accessType="SFTP" host="138.68.87.244" port="22" sshConfigId="ace3b3f6-98eb-49bf-9eb1-37214a880143" sshConfig="dean@138.68.87.244:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
